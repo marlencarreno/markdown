@@ -5,4 +5,4 @@
 ### This is my first markdown page.
 This text is *italicized*. And this text is **strong**.
 
-This httml code is <strong> bold </strong>
+This html code is <strong> bold </strong>
